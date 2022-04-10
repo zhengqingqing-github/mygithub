@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-center/cloud-config-center.iml" filepath="$PROJECT_DIR$/cloud-config-center/cloud-config-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clouds.iml" filepath="$PROJECT_DIR$/clouds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+    </modules>
+  </component>
+</project>
